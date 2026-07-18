@@ -14,7 +14,6 @@
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,17 +25,11 @@
   <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
   <img src="https://img.shields.io/badge/U--Boot-1793D1?style=for-the-badge&logo=databricks&logoColor=white" alt="U-Boot" />
   <img src="https://img.shields.io/badge/Device%20Tree-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Device Tree" />
-  <img src="https://img.shields.io/badge/eMMC-333333?style=for-the-badge&logo=micron&logoColor=white" alt="eMMC" />
-  <img src="https://img.shields.io/badge/ARM%20%2F%20aarch64-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM / aarch64" />
-  <img src="https://img.shields.io/badge/CODESYS-E30613?style=for-the-badge&logo=codeforces&logoColor=white" alt="CODESYS" />
-  <img src="https://img.shields.io/badge/udev-4B275F?style=for-the-badge&logo=systemd&logoColor=white" alt="udev" />
 </p>
 
 **Tools / Environment**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU / KVM" />
-  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
@@ -51,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<username>&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1mpr00ve&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
