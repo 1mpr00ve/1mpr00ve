@@ -1,7 +1,6 @@
 
 <p align="center">
   <b>Software Engineer · Embedded Linux</b><br>
-  📍 Ufa, Russia
 </p>
 
 <p align="center">
